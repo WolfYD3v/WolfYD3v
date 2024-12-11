@@ -6,7 +6,7 @@ I am a game developper who is using the Godot Engine , not Unity because you kno
 I’m interested in a lot of things : Game developpement , 3D animation with Blender and doing art .
 I’m currently learning Python in school and GDScript of course .
 
-You can reach me on Discord under the username WolfY in French or in English I am good with this language , shocking right ?
+You can reach me on Discord under the username WolfY_D3v in French or in English I am good with this language , shocking right ?
 That's all .
 
 ( There is irony on this , don't take it too seriously )
