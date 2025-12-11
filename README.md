@@ -1,29 +1,36 @@
-Hello dear employe, or not employe, or before employe, or maybe new employe,
+Cher employé, ou ex-employé, ou pas-employé, ou nouvel employé maybe, je vous souhaite la bienvenue dans mon profile.
 
-I am WolfY_D3v, CEO and the only communication guy of the WolfY_Corp (a great """official""" corporation YOU should join!)  
-I also am a young and independant game developer at my Grand 18th years old.  
-All my games and creations are avaible for free on my Itch.io, this is not the best things you will see but it's great. As I am happy with what I am doing my creations are great.  
-My Itch.io page: https://wolfy400.itch.io/
+Je suis WolfY_D3v, CEO et le seul chargé de communication de la WolfY_Corp; une Grande corporation """officielle""" que VOUS devez penser rejoindre un jour!
+Voici les liens pour... au cas ou...
+- [**LE SERVEUR DISCORD**](https://discord.gg/wqHbYyJttk)
+- [**LE SERVEUR REVOLT**](https://rvlt.gg/VkW7t5WW)
 
-I use my beloved game engine; The famous Godot Engine on my riced Linux Mint installation on my crappy laptop from the year before 2016. It doesn't support Vulkan that's so bad!  
-*(laughting at my keyboard right now)*
+MON ACTIVITE:
+-
 
-But I also have a website I have made aaaaal by myself, and not with the help of Gemini aaaaat all.  
-For the company's sake of course :)  
-The corporation website: https://wolfyd3v.github.io/WolfY_CorpCompanyWebsite/
+Je suis un jeune développeur indépendant de jeux-vidéos moyens avec Godot. Tous les jeux que je créer sont disponibles gratuitement sur ma [**page Itch.io**](https://wolfy400.itch.io/).
 
-I have a Discord server, and a Revolt server, as two places where all my employes (servers members if you prefer) are and talk about neard stuff, where French is mostly the language used.  
-- The Discord server: https://discord.gg/wqHbYyJttk
-- The Revolt server: https://rvlt.gg/VkW7t5WW
+En plus de développer des jeux, j'ai créé des sites:
+- Un pour ma corporation très """officielle""": [**SITE**](https://wolfyd3v.github.io/WolfY_CorpCompanyWebsite/)
+- Un [**portefolio**](https://wolfyd3v.github.io/Portfolio/)
+- Un site pour mon jeu [**The Sims Board's Collection**](https://wolfy400.itch.io/the-sim-boards-collection): [**SITE**](https://wolfyd3v.github.io/The-Sim-Board-s-Collection-Website/index.html)
 
-And finally I have a Youtube channel.  
-You can check it if you want (and if you understand French): https://youtube.com/@wolfy_d3v?si=VzD5bQHvzxCQMJPI
+Pour poster les trailers de mes jeux, ou d'autres choses..., j'ai une [**chaînes Youtube**](https://www.youtube.com/@wolfy_d3v) dédiée. N'hésitez pas à y jeter un coup d'oeil ;)
 
-I’m interested in a lot of things:
-- Game developpement (of course)
-- 3D animation with Blender
-- Doing little art projects (strange or not)
-- Programming
+INFORMATIONS PERSONNELLES:
+-
+Je suis un jeune homme âgé de 18 ans, qui utilise Linux au quotidien *(vive Tux)* sur un ordinateur portable datant de pré. 2016 qui ne supporte pas bien Vulkan. I use Mint btw... \
+Il est un peu rice mais ça c'est un détail.
+
+Je porte des intérêts dans peu de trucs:
+- Le développement de jeux (obviously)
+- La création de sites
+- La pratique artistique manuelle ou numérique
+- L'animation 2D/3D
+
+VOILA VOILA, PASSEZ UNE BONNE JOURNEE!
+-
+Copyright (c) 2025 WolfY_D3v
 
 <!---
 WolfYD3v/WolfYD3v is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
