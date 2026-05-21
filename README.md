@@ -1,36 +1,20 @@
-Cher employé, ou ex-employé, ou pas-employé, ou nouvel employé maybe, je vous souhaite la bienvenue dans mon profile.
+Yo.
 
-Je suis WolfY_D3v, CEO et le seul chargé de communication de la WolfY_Corp; une Grande corporation """officielle""" que VOUS devez penser rejoindre un jour!
-Voici les liens pour... au cas ou...
-- [**LE SERVEUR DISCORD**](https://discord.gg/wqHbYyJttk)
-- [**LE SERVEUR REVOLT**](https://rvlt.gg/VkW7t5WW)
+So I'm WolfY_D3v. Indie game dev (with Godot), French, 19 years old.
+I create games (not incredible but it's okay I guess). I also make some tools when I need them.
 
-MON ACTIVITE:
--
+You can take a look on what I'm spending all my time on on my [**Itch.io Page**](https://wolfy400.itch.io/).
 
-Je suis un jeune développeur indépendant de jeux-vidéos moyens avec Godot. Tous les jeux que je créer sont disponibles gratuitement sur ma [**page Itch.io**](https://wolfy400.itch.io/).
 
-En plus de développer des jeux, j'ai créé des sites:
-- Un pour ma corporation très """officielle""": [**SITE**](https://wolfyd3v.github.io/WolfY_CorpCompanyWebsite/)
-- Un [**portefolio**](https://wolfyd3v.github.io/Portfolio/)
-- Un site pour mon jeu [**The Sims Board's Collection**](https://wolfy400.itch.io/the-sim-boards-collection): [**SITE**](https://wolfyd3v.github.io/The-Sim-Board-s-Collection-Website/index.html)
+I like drawing with my Wacom, slac off, watch Glitch shows on Youtube, make bad animations, and manage my growing home-server (I have used SSH two days ago, I made a tool to manage my SSH connections in Python). I also likke Tux. *(I use Mint btw)*
 
-Pour poster les trailers de mes jeux, ou d'autres choses..., j'ai une [**chaînes Youtube**](https://www.youtube.com/@wolfy_d3v) dédiée. N'hésitez pas à y jeter un coup d'oeil ;)
+I also learning Web dev (front/back end). If you want to take a look at my [**Portefolio**](https://wolfyd3v.github.io/Portfolio/) (it has to be re-done from scratch) you're informed.
 
-INFORMATIONS PERSONNELLES:
--
-Je suis un jeune homme âgé de 18 ans, qui utilise Linux au quotidien *(vive Tux)* sur un ordinateur portable datant de pré. 2016 qui ne supporte pas bien Vulkan. I use Mint btw... \
-Il est un peu rice mais ça c'est un détail.
+If you want to be aware when one of my creations are out, it's on my [**Youtube channel**](https://www.youtube.com/@wolfy_d3v) . I will try to be more active, the algorythm doesn't recommand my ameteur videos now.
 
-Je porte des intérêts dans peu de trucs:
-- Le développement de jeux (obviously)
-- La création de sites
-- La pratique artistique manuelle ou numérique
-- L'animation 2D/3D
 
-VOILA VOILA, PASSEZ UNE BONNE JOURNEE!
--
-Copyright (c) 2025 WolfY_D3v
+
+Copyright (c) 2026 WolfY_D3v
 
 <!---
 WolfYD3v/WolfYD3v is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
